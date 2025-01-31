@@ -88,3 +88,13 @@ For example:
 
 
 
+# Documentation
+
+The JavaDoc generated HTML documentation for this project is available in the "doc" folder.
+
+**index.html** 
+
+
+# ScreenCast
+
+**https://youtu.be/6pyVljAj-mw** Link for my screencast video.
