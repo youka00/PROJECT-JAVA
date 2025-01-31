@@ -92,7 +92,9 @@ For example:
 
 The JavaDoc generated HTML documentation for this project is available in the "doc" folder.
 
-**index.html** 
+To view the documentation: 
+1. Navigate to the "doc" folder in the project directory.
+2. Open the **index.html** file in the web browser.
 
 
 # ScreenCast
